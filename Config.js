@@ -39,7 +39,7 @@ global.author = process.env.AUTHOR || 'ELITEPRO\n\nContact: +2348109263390';
 // Default settings 2
 global.typemenu = process.env.TYPE_MENU || 'v2';
 global.wm = process.env.WM || "Youtube @EliteProTech";
-global.link = process.env.LINK || 'https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g';
+global.link = process.env.LINK || 'https://chat.whatsapp.com/KQYXA9CRntzKAJXGyTItjf?mode=ac_c';
 
 // Text bug
 global.xbugtex = {
